@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/daily_basket_sellers.iml" filepath="$PROJECT_DIR$/daily_basket_sellers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/daily_basket_sellers_android.iml" filepath="$PROJECT_DIR$/android/daily_basket_sellers_android.iml" />
+    </modules>
+  </component>
+</project>
