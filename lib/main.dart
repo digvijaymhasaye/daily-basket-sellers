@@ -1,4 +1,5 @@
-import 'package:daily_basket_sellers/views/dashboard_view.dart';
+import 'package:daily_basket_sellers/views/home_view.dart';
+import 'package:daily_basket_sellers/views/sign_in_view.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -16,9 +17,12 @@ class MyApp extends StatelessWidget {
         primaryColor: Color(0xFF3B916B),
         accentColor: Color(0xFF65BB9D),
         visualDensity: VisualDensity.adaptivePlatformDensity,
-        fontFamily: 'Ubuntu'
+        fontFamily: 'Ubuntu',
+        
+        // backgroundColor: Colors.white,
       ),
-      home: Dashboard(),
+      // home: SignInView(),
+      home: Home(),
     );
   }
 }
